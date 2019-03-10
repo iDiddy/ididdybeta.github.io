@@ -1,0 +1,8 @@
+Origin: iDiddy's Beta Repo
+Label: iDiddy's Beta Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: iDiddy's Beta Repo
